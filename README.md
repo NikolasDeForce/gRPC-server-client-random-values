@@ -1,4 +1,4 @@
-#gRPC server/client returns random values to console
+gRPC server/client returns random values to console
 
 - `cmd cd server`
 - `cmd go run gServer.go`
